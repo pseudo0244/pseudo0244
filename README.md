@@ -9,8 +9,6 @@ I’m a **Developer** and **tech enthusiast** passionate about **building better
 
 - 🌱 I’m currently learning **React and Node.js**
 
-- 👯 I’m looking to collaborate on **a 3D car configurator.**
-
 - 🤝 I’m looking for help with **Backend Development**
 
 - 👨‍💻 All of my projects are available at [www.harshith.fun](www.harshith.fun)
@@ -38,6 +36,7 @@ I’m a **Developer** and **tech enthusiast** passionate about **building better
   <img src="https://img.shields.io/badge/C-A8B400?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
 </div>
+
 ## ☕ **Coffee Consumption**
 
 ![Coffee Badge](https://img.shields.io/badge/☕%20Coffee%20Consumption-2000%20oz-orange?style=for-the-badge&logo=coffee)
@@ -45,28 +44,6 @@ I’m a **Developer** and **tech enthusiast** passionate about **building better
 *Total coffee consumed: **2000 oz** this year.*
 
 ---
-
-## 📊 **GitHub Stats**
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=pseudo0244&show_icons=true&theme=material-palenight" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pseudo0244&theme=material-palenight" width="45%" />
-</div>
-
-<div style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pseduo0244&layout=compact&theme=material-palenight" alt="Top Languages" width="50%" />
-</div>
-
----
-
-## 🌱 **Currently Learning**
-
-- Docker
-- Kubernetes
-- SaaS stacks
-
----
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/pseudo0244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pseudo0244" height="30" width="40" /></a>
@@ -76,6 +53,16 @@ I’m a **Developer** and **tech enthusiast** passionate about **building better
 <a href="https://www.hackerrank.com/workwithharshith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="workwithharshith" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pseudo0244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pseudo0244" height="30" width="40" /></a>
 </p>
+
+---
+
+## 📊 **GitHub Stats**
+
+p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pseudo0244&show_icons=true&locale=en&layout=compact" alt="pseudo0244" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pseudo0244&show_icons=true&locale=en" alt="pseudo0244" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pseudo0244&" alt="pseudo0244" /></p>
 
 ---
 
