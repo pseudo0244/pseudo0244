@@ -1,5 +1,5 @@
 <!-- Custom Banner Image (Netflix Style) -->
-<img src="https://raw.githubusercontent.com/HarshithJ/repo-name/main/netflix-banner.png" alt="Welcome to My GitHub" width="100%" />
+<img src="[https://raw.githubusercontent.com/HarshithJ/repo-name/main/netflix-banner.png](https://github.com/pseudo0244/pseudo0244/blob/main/1.png)" alt="Welcome to My GitHub" width="100%" />
 
 # 🎬 Harshith J. - Streaming Tech & Creativity 🍿
 
