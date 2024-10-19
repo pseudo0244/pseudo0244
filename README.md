@@ -6,9 +6,7 @@
 I’m a **Developer** and **tech enthusiast** passionate about **building better tech for a better tomorrow**. Constantly exploring new technologies, I'm driven to craft innovative digital products that impact the world.
 
 ---
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 60%;">
-   ## 💻 **Tech Stack**
+## 💻 **Tech Stack**
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -24,12 +22,6 @@ I’m a **Developer** and **tech enthusiast** passionate about **building better
   <img src="https://img.shields.io/badge/C-A8B400?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
 </div>
-  
-  <div style="width: 35%;">
-    <!-- Lottie Animation -->
-    <lottie-player src="https://lottie.host/69e7e50b-ab73-4b8c-b03f-730d96ba5279/brJCFjKFiq.json" background="transparent" speed="1" style="width: 100%; height: 300px;" loop autoplay></lottie-player>
-  </div>
-</div>
 
 ---
 ## ☕ **Coffee Consumption**
@@ -39,6 +31,12 @@ I’m a **Developer** and **tech enthusiast** passionate about **building better
 *Total coffee consumed: **2000 oz** this year.*
 
 ---
+
+  <div style="width: 35%;">
+    <!-- Lottie Animation -->
+    <lottie-player src="https://lottie.host/69e7e50b-ab73-4b8c-b03f-730d96ba5279/brJCFjKFiq.json" background="transparent" speed="1" style="width: 100%; height: 300px;" loop autoplay></lottie-player>
+  </div>
+</div>
 
 ## 🚀 **Projects**
 
@@ -56,12 +54,12 @@ I’m a **Developer** and **tech enthusiast** passionate about **building better
 ## 📊 **GitHub Stats**
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshithJ&show_icons=true&theme=material-palenight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshithJ&theme=material-palenight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pseudo0244&show_icons=true&theme=material-palenight" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pseudo0244&theme=material-palenight" width="50%" />
 </div>
 
 <div style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshithJ&layout=compact&theme=material-palenight" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pseduo0244&layout=compact&theme=material-palenight" alt="Top Languages" width="50%" />
 </div>
 
 ---
@@ -74,18 +72,11 @@ I’m a **Developer** and **tech enthusiast** passionate about **building better
 
 ---
 
-## 🟢 **My GitHub Contributions**
-
-<!-- Display contribution graph -->
-![GitHub Contributions](https://github.com/pseudo0244/github-contribution-grid-snake.svg)
-
----
-
 ## 🌍 **Connect With Me**
 
-[![Website Badge](https://img.shields.io/badge/-harshithj.dev-00C2C2?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://harshith.fun)
+[![Website Badge](https://img.shields.io/badge/-harshith.fun-00C2C2?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://harshith.fun)
 [![LinkedIn Badge](https://img.shields.io/badge/-HarshithJ-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harshithj/)
-[![Twitter Badge](https://img.shields.io/badge/-@HarshithDev-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/HarshithJ9)
+[![Twitter Badge](https://img.shields.io/badge/-@HarshithJ09-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/HarshithJ9)
 
 ---
 
