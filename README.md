@@ -1,30 +1,35 @@
 <!-- Custom Banner Image (Netflix Style) -->
 <img src="https://github.com/pseudo0244/pseudo0244/blob/main/1.png" alt="Welcome to My GitHub" width="100%" />
 
-<!-- Custom Full-Width Banner -->
-<img src="https://raw.githubusercontent.com/HarshithJ/repo-name/main/banner.png" alt="Welcome to My GitHub" width="100%" />
-
 # 👋 Hello, I'm Harshith J.
 
 I’m a **Developer** and **tech enthusiast** passionate about **building better tech for a better tomorrow**. Constantly exploring new technologies, I'm driven to craft innovative digital products that impact the world.
 
 ---
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 60%;">
+    ## 💻 **Tech Stack**
 
-## 💻 **Tech Stack**
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B400?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
+    <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-A8B400?style=for-the-badge&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
+    </div>
+  </div>
+  
+  <div style="width: 35%;">
+    <!-- Lottie Animation -->
+    <lottie-player src="https://assets3.lottiefiles.com/packages/lf20_HChT5M.json" background="transparent" speed="1" style="width: 100%; height: 300px;" loop autoplay></lottie-player>
+  </div>
 </div>
 
 ---
