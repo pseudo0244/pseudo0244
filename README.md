@@ -54,8 +54,8 @@ I’m a **Developer** and **tech enthusiast** passionate about **building better
 ## 📊 **GitHub Stats**
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=pseudo0244&show_icons=true&theme=material-palenight" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pseudo0244&theme=material-palenight" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pseudo0244&show_icons=true&theme=material-palenight" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pseudo0244&theme=material-palenight" width="45%" />
 </div>
 
 <div style="text-align: center;">
