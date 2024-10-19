@@ -58,7 +58,7 @@ I’m a **Developer** and **tech enthusiast** passionate about **building better
 
 ## 📊 **GitHub Stats**
 
-p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pseudo0244&show_icons=true&locale=en&layout=compact" alt="pseudo0244" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pseudo0244&show_icons=true&locale=en&layout=compact" alt="pseudo0244" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pseudo0244&show_icons=true&locale=en" alt="pseudo0244" /></p>
 
