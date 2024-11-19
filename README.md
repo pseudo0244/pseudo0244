@@ -66,7 +66,4 @@ I’m a **Developer** and **tech enthusiast** passionate about **building better
 
 ---
 
-## 🏆 **GitHub Trophies**
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=HarshithJ&theme=dracula&no-bg=true&no-frame=true&column=6)](https://github.com/psuedo0244)
 
