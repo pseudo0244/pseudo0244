@@ -11,7 +11,7 @@ I’m a **Developer** and **tech enthusiast** passionate about **building better
 
 - 🤝 I’m looking for help with **Backend Development**
 
-- 👨‍💻 All of my projects are available at [www.harshith.fun](www.harshith.fun)
+- 👨‍💻 All of my projects are available at **www.harshith.fun**
 
 - 💬 Ask me about **Docker and Kubernetes**
 
