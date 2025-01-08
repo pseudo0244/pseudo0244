@@ -7,29 +7,30 @@ I’m a **Developer** and **tech enthusiast** passionate about **building better
 
 - 🔭 I’m currently working on **a SaaS product.**
 
-- 🌱 I’m currently learning **React and Node.js**
+- 🌱 I’m currently learning **Backend Development with GoLang**
 
-- 🤝 I’m looking for help with **Backend Development**
+- 🤝 I’m looking for help with **Microservice Architecture**
 
 - 👨‍💻 All of my projects are available at **www.harshith.fun**
 
-- 💬 Ask me about **Docker and Kubernetes**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **workwithharshith@gmail.com**
 
-- ⚡ Fun fact **I’m introverted, but super chill**
+- ⚡ Fun fact **info.cern.ch - It is the first ever website created and is still active**
 
 ---
 ## 💻 **Tech Stack**
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B400?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -39,6 +40,7 @@ I’m a **Developer** and **tech enthusiast** passionate about **building better
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
+
 
 
 ## ☕ **Coffee Consumption**
