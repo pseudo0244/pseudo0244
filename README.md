@@ -17,7 +17,7 @@ I’m a **Developer** and **tech enthusiast** passionate about **building better
 
 - 📫 How to reach me **workwithharshith@gmail.com**
 
-- ⚡ Fun fact The first ever website created and is still active **https://info.cern.ch/**
+- ⚡ Fun fact The first ever website was created in 1991 and is still active **https://info.cern.ch/**
 
 ---
 ## 💻 **Tech Stack**
