@@ -47,7 +47,7 @@ I’m a **Developer** and **tech enthusiast** passionate about **building better
 
 ![Coffee Badge](https://img.shields.io/badge/☕%20Coffee%20Consumption-100%20oz-orange?style=for-the-badge&logo=coffee)
 
-*Total coffee consumed in 2025: **100 oz** this year.*
+Total coffee consumed in 2025: **100 oz** 
 
 ---
 <h3 align="left">Connect with me:</h3>
