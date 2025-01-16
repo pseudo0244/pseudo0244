@@ -41,11 +41,6 @@ I’m a **Developer** and **tech enthusiast** passionate about **building better
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
-## 🏆 GitHub Stats
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pseudo0244&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)](https://github.com/pseudo0244)
-
-
 ## ☕ **Coffee Consumption**
 
 ![Coffee Badge](https://img.shields.io/badge/☕%20Coffee%20Consumption-100%20oz-orange?style=for-the-badge&logo=coffee)
