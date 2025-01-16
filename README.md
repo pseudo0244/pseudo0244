@@ -45,12 +45,6 @@ I’m a **Developer** and **tech enthusiast** passionate about **building better
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pseudo0244&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)](https://github.com/pseudo0244)
 
-## 🗣️ Languages Used
-
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pseudo0244&langs_count=8&layout=compact)](https://github.com/pseudo0244)
-
----
-
 
 ## ☕ **Coffee Consumption**
 
