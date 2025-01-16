@@ -43,19 +43,13 @@ I’m a **Developer** and **tech enthusiast** passionate about **building better
 
 ## 🏆 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)](https://github.com/pseudo0244)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pseudo0244&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)](https://github.com/pseudo0244)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&langs_count=10&theme=radical)](https://github.com/pseudo0244)
+## 🗣️ Languages Used
 
----
-## 🐱 Fun GitHub Stats
-
-Here’s a quirky widget that shows some fun stats about my GitHub profile:
-
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)](https://github.com/pseudo0244)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pseudo0244&langs_count=8&layout=compact)](https://github.com/pseudo0244)
 
 ---
-
 
 
 ## ☕ **Coffee Consumption**
