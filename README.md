@@ -43,11 +43,11 @@ I’m a **Developer** and **tech enthusiast** passionate about **building better
 
 ## ☕ **Coffee Consumption**
 
-![Coffee Badge](https://img.shields.io/badge/☕%20Coffee%20Consumption-100%20oz-orange?style=for-the-badge&logo=coffee)
+![Coffee Badge](https://img.shields.io/badge/☕%20Coffee%20Consumption-150%20oz-orange?style=for-the-badge&logo=coffee)
 
-Total coffee consumed in 2025: **100 oz** 
+Total coffee consumed in 2025: **150 oz** 
 
----
+--- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/pseudo0244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pseudo0244" height="30" width="40" /></a>
