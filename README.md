@@ -13,7 +13,7 @@ I’m a **Developer** and **tech enthusiast** passionate about **building better
 
 - 👨‍💻 All of my projects are available at **www.harshith.fun**
 
-- 💬 Ask me about **Full Stack Development**
+- 💬 Ask me about **Cloud Computing**
 
 - 📫 How to reach me **workwithharshith@gmail.com**
 
