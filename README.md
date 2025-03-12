@@ -5,7 +5,7 @@
 
 I’m a **Developer** and **tech enthusiast** passionate about **building better tech for a better tomorrow**. Constantly exploring new technologies, I'm driven to craft innovative digital products that impact the world.
 
-- 🔭 I’m currently working on **a SaaS product.**
+- 🔭 I’m currently working on **DNG Studio.**, a muisc notation **SaaS product**
 
 - 🌱 I’m currently learning **Backend Development with GoLang**
 
