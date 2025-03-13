@@ -41,11 +41,15 @@ I’m a **Developer** and **tech enthusiast** passionate about **building better
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
+## 📊 GitHub Stats  
+![Harshith's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pseudo0244&layout=compact&theme=radical)  
+![Harshith's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pseudo0244&theme=react-dark)  
+
 ## ☕ **Coffee Consumption**
 
-![Coffee Badge](https://img.shields.io/badge/☕%20Coffee%20Consumption-150%20oz-orange?style=for-the-badge&logo=coffee)
+![Coffee Badge](https://img.shields.io/badge/☕%20Coffee%20Consumption-300%20oz-orange?style=for-the-badge&logo=coffee)
 
-Total coffee consumed in 2025: **150 oz** 
+Total coffee consumed in 2025: **300 oz** 
 
 --- 
 <h3 align="left">Connect with me:</h3>
